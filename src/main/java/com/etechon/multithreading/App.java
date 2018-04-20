@@ -1,13 +1,13 @@
 package com.etechon.multithreading;
 
 /**
- * Hello world!
+ * Multithreading Samples.
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+       
     }
 }
