@@ -1,4 +1,4 @@
 # Multithreading code
-Provide sample code (snippet) about Multi threading using Java 7 and Java 8
+Provide sample code (snippet) for Multi threading using Java 7 and Java 8
 #
 --
